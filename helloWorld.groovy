@@ -25,6 +25,6 @@ public class HelloWorld {
 	 }
  }
  def helloWorld = new HelloWorld()
- helloWorld.name = "Groovy"
+ helloWorld.name = "GroovyBeforeUpperCaseThisFileName"
  println helloWorld.greet()
  
